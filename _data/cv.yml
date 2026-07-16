@@ -1,6 +1,6 @@
 cv:
   name: Nicholas Scoville
-  label: Chair and Professor of Mathematics, Coupmuter Science, and Statistics
+  label: Chair and Professor of Mathematics, Computer Science, and Statistics
   email: nscoville@ursinus.edu
   location: Collegeville, PA
   image: ""
@@ -8,11 +8,11 @@ cv:
 
   social_networks: []
 
-  address:
-    street: ""
-    city: ""
-    region: ""
-    postalCode: ""
+  address: 601
+    street: "Main Street"
+    city: Collegeville
+    region: PA
+    postalCode: "19426"
     countryCode: US
 
   sections: {}
