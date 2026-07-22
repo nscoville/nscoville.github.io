@@ -28,7 +28,3 @@ latest_posts:
 ---
 
 I am a Professor of Mathematics and Chair of the Department of Mathematics, Computer Science, and Statistics at Ursinus College, where I hold the Joseph Beardwood III Chair of Mathematics. My research focuses on discrete Morse theory, digital topology, and topological data analysis. I am the author of the first comprehensive textbook on discrete Morse theory (AMS, 2019), and I regularly collaborate with undergraduate students on research projects.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
