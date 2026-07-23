@@ -43,7 +43,7 @@ When I am not counting holes, I love to run while listening to 80s hair bands, c
 
 **Discrete Morse Theory** (Student Mathematical Library, vol. 90, American Mathematical Society, 2019)
 A textbook on discrete Morse theory written for undergraduates covering the foundations and some mathematical applications.
-[AMS Bookstore](https://bookstore.ams.org/stml-90/) · [Amazon](https://www.amazon.com/Discrete-Theory-Student-Mathematical-Library/dp/1470452987/)
+[AMS Bookstore](https://bookstore.ams.org/stml-90/) · [Amazon](https://www.amazon.com/Discrete-Theory-Student-Mathematical-Library/dp/1470452987/) · [Errata](https://nscoville.github.io/website/DMTerratum.pdf)
 
 **Teaching and Learning with Primary Source Projects: Real Analysis, Topology, and Complex Variables** (TRIUMPHS project, American Mathematical Society)
 A collection of primary-source-based teaching modules for undergraduate analysis, topology, and complex variables courses.
