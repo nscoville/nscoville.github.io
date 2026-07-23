@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Professor of Mathematics and Chair of the Department of Mathematics, Computer Science, and Statistics at Ursinus College, where I hold the Joseph Beardwood III Chair of Mathematics. My research focuses on discrete Morse theory, digital topology, and topological data analysis. I am the author of the first comprehensive textbook on discrete Morse theory (AMS, 2019), and I regularly collaborate with undergraduate students on research projects.
+I am a Professor of Mathematics and Chair of the Department of Mathematics, Computer Science, and Statistics at Ursinus College, where I hold the Joseph Beardwood III Chair of Mathematics. My research focuses on topology. Topology studies the shape of spaces like in geometry, but in a much more general way. Basically topology is concerned with the number and type of holes in an object. Topology allows one to smoothly deform one object into another or to show why such a smooth deformation is not possible. The world of topology is vast and has many applications in physics, robotics, sensor networks, and big data analysis.
+
+When I am not counting holes, I love to run while listening to 80s hair bands, cook Indian food while listening to old school country music (think Hank Williams and Marty Robbins), sew and tailor clothes while listening to Italian opera (but we’ll make an exception for Bizet), play ragtime piano, and read scholastic theology and philosophy. I am the father of 7 daughters so far, and consider myself an amateur scholastic.
 
 ### Research Interests
 
@@ -40,7 +42,7 @@ I am a Professor of Mathematics and Chair of the Department of Mathematics, Comp
 ### Books
 
 **Discrete Morse Theory** (Student Mathematical Library, vol. 90, American Mathematical Society, 2019)
-The first comprehensive textbook on discrete Morse theory, covering the combinatorial framework for studying the topology of simplicial complexes.
+A textbook on discrete Morse theory written for undergraduates covering the foundations and some mathematical applications.
 [AMS Bookstore](https://bookstore.ams.org/stml-90/) · [Amazon](https://www.amazon.com/Discrete-Theory-Student-Mathematical-Library/dp/1470452987/)
 
 **Teaching and Learning with Primary Source Projects: Real Analysis, Topology, and Complex Variables** (TRIUMPHS project, American Mathematical Society)
