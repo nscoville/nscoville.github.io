@@ -36,3 +36,16 @@ I am a Professor of Mathematics and Chair of the Department of Mathematics, Comp
 - Topological data analysis
 - Simplicial complexes and combinatorial topology
 - Lusternik–Schnirelmann category
+
+### Books
+
+**Discrete Morse Theory** (Student Mathematical Library, vol. 90, American Mathematical Society, 2019)
+The first comprehensive textbook on discrete Morse theory, covering the combinatorial framework for studying the topology of simplicial complexes.
+[AMS Bookstore](https://bookstore.ams.org/stml-90/) · [Amazon](https://www.amazon.com/Discrete-Theory-Student-Mathematical-Library/dp/1470452987/)
+
+**Teaching and Learning with Primary Source Projects: Real Analysis, Topology, and Complex Variables** (TRIUMPHS project, American Mathematical Society)
+A collection of primary-source-based teaching modules for undergraduate analysis, topology, and complex variables courses.
+[AMS Bookstore](https://bookstore.ams.org/clrm-71)
+
+**Abstract Algebra, or There and Back Again: A Polynomial's Tale** (forthcoming, Princeton University Press)
+In a ring over a field, there lived a polynomial. Currently in press.
