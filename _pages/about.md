@@ -28,3 +28,11 @@ latest_posts:
 ---
 
 I am a Professor of Mathematics and Chair of the Department of Mathematics, Computer Science, and Statistics at Ursinus College, where I hold the Joseph Beardwood III Chair of Mathematics. My research focuses on discrete Morse theory, digital topology, and topological data analysis. I am the author of the first comprehensive textbook on discrete Morse theory (AMS, 2019), and I regularly collaborate with undergraduate students on research projects.
+
+### Research Interests
+
+- Discrete Morse theory
+- Digital topology and digital homotopy theory
+- Topological data analysis
+- Simplicial complexes and combinatorial topology
+- Lusternik–Schnirelmann category
