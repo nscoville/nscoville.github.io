@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /collaborators/
-title: collaborators
-description: The people I've had the pleasure of working with.
+title: Collaborators
+description: 
 nav: true
 nav_order: 7
 ---
