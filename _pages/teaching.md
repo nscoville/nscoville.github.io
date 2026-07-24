@@ -2,14 +2,37 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at Ursinus College and Regina Luminis Academy.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Ursinus College
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- Mathematics for Human Flourishing
+- Abstract Algebra
+- Algebraic Topology
+- Discrete Morse Theory
+- Graph Theory
+- Common Intellectual Experience (CIE)
+- Topology
+- Multivariable Calculus
+- Linear Algebra
+- Problem Solving
+- Geometry
+- Probability
+- Mathematics for Data
+- Discrete Mathematics
+- Statistics I
+- Calculus I
+- Calculus II
 
-{% include courses.liquid %}
+### Regina Luminis Academy (Adjunct Instructor)
+
+- Aristotelian Logic
+- Philosophy of Nature
+- Calculus
+- Scholastic Metaphysics
+- Medieval Philosophy
+- Physics
+- Quadrivium
