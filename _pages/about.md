@@ -29,6 +29,12 @@ latest_posts:
 
 I am a Professor of Mathematics and Chair of the Department of Mathematics, Computer Science, and Statistics at Ursinus College, where I hold the Joseph Beardwood III Chair of Mathematics. My research focuses on topology. Topology studies the shape of spaces like in geometry, but in a much more general way. Basically topology is concerned with the number and type of holes in an object. Topology allows one to smoothly deform one object into another or to show why such a smooth deformation is not possible. The world of topology is vast and has many applications in physics, robotics, sensor networks, and big data analysis.
 
+### What is Discrete Morse Theory?
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe src="https://www.youtube.com/embed/3Sww-U4KV98" title="What is Discrete Morse Theory?" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 When I am not counting holes, I love to run while listening to 80s hair bands, cook Indian food while listening to old school country music (think Hank Williams and Marty Robbins), sew and tailor clothes while listening to Italian opera (but we'll make an exception for Bizet), play ragtime piano, and read scholastic theology and philosophy. I've also spent an unreasonable amount of time cataloguing [tie knots](https://nscoville.github.io/website/Ties/NotKnotTheory.html). I am the father of 7 daughters so far, and consider myself an amateur scholastic.
 
 ### Research Interests
