@@ -9,7 +9,7 @@ nav_order: 6
 
 ### Ursinus College
 
-- Mathematics for Human Flourishing
+- [Mathematics for Human Flourishing](/mfhf/)
 - Abstract Algebra
 - Algebraic Topology
 - Discrete Morse Theory
