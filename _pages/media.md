@@ -34,4 +34,8 @@ While teaching the honors math section at Regina Luminis Academy in 2023 and 202
 
 When Ursinus moved to remote learning in the spring of 2020, I made a weekly series of Office-style videos with my family called "I Miss My Ursinus Students" which were vignettes of me trying (and failing) to be a professor at home with my kids underfoot. Ursinus featured the first one on its Instagram, where it became one of the most popular post in the account's history. I made one a week every week from the start of COVID until we returned to in-person classes.
 
-[Watch the playlist](https://www.youtube.com/playlist?list=PLi66uHRWnkDddlCFpmrDddSG5bu1CV5DZ)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe src="https://www.youtube.com/embed/cC3-yA5nUF0" title="I Miss My Ursinus Students, Episode 1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[Watch the full playlist](https://www.youtube.com/playlist?list=PLi66uHRWnkDddlCFpmrDddSG5bu1CV5DZ)
