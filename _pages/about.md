@@ -47,13 +47,21 @@ When I am not counting holes, I love to run while listening to 80s hair bands, c
 
 ### Books
 
+<img src="https://ebus.ams.org/ProductImages/stml-90-e-cov-1.jpg" alt="Discrete Morse Theory cover" style="float: left; width: 100px; margin: 0 15px 10px 0;">
+
 **Discrete Morse Theory** (Student Mathematical Library, vol. 90, American Mathematical Society, 2019)
 A textbook on discrete Morse theory written for undergraduates covering the foundations and some mathematical applications.
 [AMS Bookstore](https://bookstore.ams.org/stml-90/) · [Amazon](https://www.amazon.com/Discrete-Theory-Student-Mathematical-Library/dp/1470452987/) · [Errata](/assets/pdf/DMTerratum.pdf)
 
+<div style="clear: both;"></div>
+
+<img src="https://ebus.ams.org/ProductImages/clrm-71-01.jpg" alt="Teaching and Learning with Primary Source Projects cover" style="float: left; width: 100px; margin: 0 15px 10px 0;">
+
 **Teaching and Learning with Primary Source Projects: Real Analysis, Topology, and Complex Variables** (TRIUMPHS project, American Mathematical Society)
 A collection of primary-source-based teaching modules for undergraduate analysis, topology, and complex variables courses.
 [AMS Bookstore](https://bookstore.ams.org/clrm-71)
+
+<div style="clear: both;"></div>
 
 **Abstract Algebra, or There and Back Again: A Polynomial's Tale** (forthcoming, Princeton University Press)
 In a ring over a field, there lived a polynomial. Currently in press.
