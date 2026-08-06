@@ -15,7 +15,8 @@ I've been fortunate to work with a wonderful group of collaborators over the yea
 - **Julian Brüggemann** —Dioscuri Centre in Topological Data Analysis, Polish Academy of Sciences ([website]([https://dioscuri-tda.org/members/pawel.html](https://sites.google.com/view/julianbrueggemann/home)))
 - **Akshaye Dhawan**
 - **Pawel Dłotko** — Dioscuri Centre in Topological Data Analysis, Polish Academy of Sciences ([website](https://dioscuri-tda.org/members/pawel.html))
-- **Desamparados Fernández-Ternero** — Universidad de Sevilla
+- **Bastian Grossenbacher-Rieck** — ([website](https://bastian.rieck.me/)) and in general, the [AIDOS lab](https://aidos.group/) at the University of Fribourg 
+- - **Desamparados Fernández-Ternero** — Universidad de Sevilla
 - **Allison Henrich** — Seattle University,([website](https://www.allisonhenrich.com/))
 - **Kate Kearney** — Gonzaga University ([website](http://web02.gonzaga.edu/faculty/kearney/))
 - **Dominic Klyve** — Central Washington University ([website](https://sites.google.com/site/profklyve/))
