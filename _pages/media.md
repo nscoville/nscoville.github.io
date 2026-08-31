@@ -12,9 +12,12 @@ nav_order: 8
 - ["Mathematics Faculty Awarded Grants to Foster Collaboration"](https://www.ursinus.edu/live/news/8105-mathematics-faculty-awarded-grants-to-foster) — Ursinus College News
 - ["Highly Selective NSF-funded Research Program Marks Third Year on Campus"](https://www.ursinus.edu/live/news/7874-highly-selective-nsf-funded-research-program-marks) — Ursinus College News
 - ["Mathematics Department Grants"](https://ursinusgrizzly.com/mathematics-department-grants/) — The Grizzly
+- ["Mathematics for Human Flourishing at Ursinus College"](https://maa.org/math-values/mathematics-for-human-flourishing-at-ursinus-college/) — Mathematical Association of America
 - ["Old Texts, New Ways of Teaching Math"](https://www.ursinus.edu/live/news/1718-old-texts-new-ways-of-teaching-math) — Ursinus Magazine
 - ["Positivity Prevails in Videos from Faculty and Staff"](https://www.ursinus.edu/live/news/4641-positivity-prevails-in-videos-from-faculty-and) — Ursinus College News
 - [Jimmy Jacobs Doesn't Know, Episode 006](https://pod.co/jimmyjacobsdoesntknow/006-dr-nicholas-scoville) — podcast interview
+- ["The Man Who Invented Fifteen Hundred Necktie Knots"](https://www.newyorker.com/culture/annals-of-inquiry/the-man-who-invented-fifteen-hundred-necktie-knots) — The New Yorker (no, I am not "the man" but I am quoted in the article)
+
 
 ### Lectures
 
